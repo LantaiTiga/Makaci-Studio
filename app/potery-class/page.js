@@ -1,8 +1,11 @@
 import React from 'react'
+import SectionClass from './component/SectionClass'
 
 const PoteryClass = () => {
   return (
-    <div>PoteryClass</div>
+    <>
+    <SectionClass/>
+    </>
   )
 }
 
